@@ -2,8 +2,7 @@
 
 Projeto Figma: https://www.figma.com/file/vqtVRGvYA5WOj8c9UzArKr/%5BDesafios-Explorer%5D-SPA-Universe-(Copy)?node-id=0%3A1
 
-<!-- <img src=""/> -->
-
+<img src="https://i.imgur.com/qsqzs3Y.gif"/>
 
 ## Comandos para subir no Github:
 
